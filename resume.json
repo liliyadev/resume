@@ -6,6 +6,7 @@
   "basics": {
     "name": "Liliya Vildanova",
     "label": "Web Developer",
+    "picture": "/picture/me.jpg",
     "email": "liliya.vild@gmail.com",
     "phone": "647-863-6829",
     "url": "www.linkedin.com/in/liliya-vildanovadev",
@@ -21,7 +22,7 @@
       {
         "network": "LinkedIn",
         "username": "liliya-vildanova",
-        "url": "https://linkedin.com/in/liliya-vildanova"
+        "url": "https://linkedin.com/in/liliya-vildanovadev"
       }
     ]
   },
@@ -30,7 +31,7 @@
       "name": "The Printing House",
       "position": "Intermediate Web Developer",
       "startDate": "2017-06-01",
-      "endDate": "Present",
+      "endDate": "2025-08-25",
       "location": "Toronto, ON",
       "summary": "Led complex WordPress migrations, custom theme development, and front-end optimizations for high-traffic marketing sites.",
       "highlights": [
