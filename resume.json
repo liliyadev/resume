@@ -1,0 +1,177 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Liliya Vildanova",
+    "label": "Web Developer",
+    "email": "liliya.vild@gmail.com",
+    "phone": "647-863-6829",
+    "url": "https://linkedin.com/in/liliya-vildanova",
+    "summary": "Web Developer with 10+ years of CMS expertise, specializing in pixel-perfect WordPress migrations, responsive front-end buildouts, and performance-tuned UX. Passionate about clean code, seamless design fidelity, and driving business impact through optimized, user-centered solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "L3Y",
+      "city": "Newmarket",
+      "region": "ON",
+      "countryCode": "CA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "liliya-vildanova",
+        "url": "https://linkedin.com/in/liliya-vildanova"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "The Printing House",
+      "position": "Intermediate Web Developer",
+      "startDate": "2017-06-01",
+      "endDate": "Present",
+      "location": "Toronto, ON",
+      "summary": "Led complex WordPress migrations, custom theme development, and front-end optimizations for high-traffic marketing sites.",
+      "highlights": [
+        "Migrated 200+ pages from legacy CMS into WordPress with 100% design and content fidelity",
+        "Built custom PHP/ACF themes and Tailwind-CSS templates to mirror existing Lovably-style layouts",
+        "Integrated and configured Yoast SEO, Gravity Forms, and WooCommerce for enhanced functionality",
+        "Translated Figma and Photoshop mockups into responsive, cross-browser templates (Chrome, Firefox, Safari)"
+      ]
+    },
+    {
+      "name": "The Printing House",
+      "position": "Junior Web Developer",
+      "startDate": "2013-11-01",
+      "endDate": "2017-06-01",
+      "location": "Toronto, ON",
+      "summary": "Executed platform migrations, e-commerce integrations, and front-end feature builds for print and web products.",
+      "highlights": [
+        "Ported 50+ microsites from page builders into in-house WordPress instances, cutting build times by 40%",
+        "Developed interactive components (sliders, lightboxes, accordions) using vanilla JS and jQuery",
+        "Optimized site performance via image lazy-loading, asset minification, and CDN integration",
+        "Collaborated with design and marketing teams to implement UI/UX refinements and A/B tests"
+      ]
+    },
+    {
+      "name": "Marathon Realty Inc. & Entro Communications",
+      "position": "Graphic Design Intern",
+      "startDate": "2013-06-01",
+      "endDate": "2013-08-31",
+      "location": "Toronto, ON",
+      "summary": "Supported creative teams by producing web and print mockups and early-stage responsive prototypes.",
+      "highlights": [
+        "Designed high-fidelity mockups and visual assets in Adobe Photoshop",
+        "Prototyped responsive email and landing-page templates in HTML/CSS",
+        "Collaborated on environmental and app design briefs"
+      ]
+    },
+    {
+      "name": "Nizhnekamskneftekhim",
+      "position": "Automation Engineer",
+      "startDate": "2004-06-01",
+      "endDate": "2009-08-31",
+      "location": "Tatarstan, Russia",
+      "summary": "Engineered and optimized industrial automation systems with PLC programming and HMI interfaces.",
+      "highlights": [
+        "Programmed PLC logic and SCADA dashboards for production-line control",
+        "Streamlined operator interfaces, reducing error rates by 25%",
+        "Led integration testing and troubleshooting of complex machinery workflows"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "WordPress & CMS",
+      "keywords": [
+        "Theme Development",
+        "Custom Templates",
+        "Plugin Integration",
+        "Advanced Custom Fields",
+        "Site Migrations"
+      ]
+    },
+    {
+      "name": "Front-End Development",
+      "keywords": [
+        "HTML5",
+        "CSS3 / SASS",
+        "JavaScript (ES6+)",
+        "Responsive Design",
+        "Cross-Browser Testing"
+      ]
+    },
+    {
+      "name": "Performance & SEO",
+      "keywords": [
+        "Asset Optimization",
+        "Lazy-Loading",
+        "Minification",
+        "On-Page SEO"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Microsoft Azure",
+        "Basic GCP",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Design & Collaboration",
+      "keywords": [
+        "Figma",
+        "Adobe Photoshop",
+        "Agile Workflows",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Seneca Polytechnic",
+      "area": "Web Programming & Development",
+      "studyType": "Ontario College Diploma",
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-30"
+    },
+    {
+      "institution": "Seneca Polytechnic",
+      "area": "Network Administration",
+      "studyType": "Diploma",
+      "startDate": "2019-01-01",
+      "endDate": "2021-04-30"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "date": "2023-06-01",
+      "issuer": "Microsoft"
+    },
+    {
+      "title": "JavaScript Essential Training",
+      "date": "2022-08-01",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "title": "C# Object-Oriented Programming",
+      "date": "2022-05-01",
+      "issuer": "LinkedIn Learning"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ]
+}
