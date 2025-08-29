@@ -6,7 +6,7 @@
   "basics": {
     "name": "Liliya Vildanova",
     "label": "Web Developer",
-    "picture": "/picture/me.jpg",
+      "picture": "https://raw.githubusercontent.com/liliyadev/resume/picture/me.jpg",
     "email": "liliya.vild@gmail.com",
     "phone": "647-863-6829",
     "url": "www.linkedin.com/in/liliya-vildanovadev",
